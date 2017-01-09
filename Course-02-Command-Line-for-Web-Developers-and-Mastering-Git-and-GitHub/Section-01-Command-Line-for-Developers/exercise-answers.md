@@ -1,14 +1,39 @@
 # Exercise Answers
 
-1.  
+1. Write the command that will allow you to navigate to two directories above your current directory. Study these examples: 
   ```
-  [Answer]
+  Ryan@RyansLaptop ~/Coursework/Fall 2015/BIOL13/
+  to
+  Ryan@RyansLaptop ~/Coursework/
+  cd ../../ or to move down the file tree in the reverse direction is 
+  cd Fall2015/BIOL13/
+
+  Steve@FamilyComputer ~/My Documents/Book Library/Francine Jay/The Joy of Less/
+  to
+  Steve@FamilyComputer ~/My Documents/Book Library/
+  cd ../../ 
+
   ```
-2.  
+2. Write the command and flag that will list the files and directories inside of your current directory.
+Current directory or path:
   ```
-  [Answer]
+ Ryan@RyansLaptop ~/Coursework/Fall 2015/ 
+ command.       flag	
+ ***ls*** *** -a***(shows hidden files)
+ 			
   ```
 3.  
   ```
-  [Answer]
+ | Command | flag |
+| ------ | ----------- |
+|***ls*** | 
+|       ||
+
+
   ```
+4.
+```
+| Command | flag |
+| ------ | ----------- |
+|***ls*** | ***-l***
+|       |expanded view|
