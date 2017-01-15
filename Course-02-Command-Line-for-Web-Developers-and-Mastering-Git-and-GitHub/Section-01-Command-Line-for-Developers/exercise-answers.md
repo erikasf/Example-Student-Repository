@@ -73,6 +73,36 @@ touch list_of_best_cat_pictures.html
 ```
 12.
 ```
+cd: c/Users/Default/User/My_Documents
+ ```
+ 13
+ ```
+ ping 8.8.8.8
+ ```
+ 14
+ ```
+ command prompt: ~
+
+ ```
+ 15
+ ```
+
+ NAME1 = ' RYAN
+ '
+ NAME2 = "SHARON"
+  echo = "WELCOME, $(NAME1)"
+ echo = "WELCOME, $(NAME2)"
+ ```
+16
+```
+cat tylers_favorite_songs.txt; sarahs_favorite_songs.txt
+
+```
+17
+```
+  
+
+
 
 
 
