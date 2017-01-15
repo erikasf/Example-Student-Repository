@@ -1,5 +1,5 @@
 # Exercise Answers
-
+##Beginner
 1. Write the command that will allow you to navigate to two directories above your current directory. Study these examples: 
   ```
   Ryan@RyansLaptop ~/Coursework/Fall 2015/BIOL13/
@@ -37,3 +37,44 @@ Current directory or path:
 | ------ | ----------- |
 |***ls*** | ***-l***
 |       |expanded view|
+
+5.
+```
+mkdir clean_code_examples
+```
+6.
+```
+touch anythingIlike.txt
+```
+7.
+```
+cat socks_to_buy.text
+```
+8.
+```
+pwd
+```
+9.
+```
+there are actually a few ways to discover that 
+there is:
+echo "$(whoami)"
+or 
+echo "$(id -u -n)"
+
+10.
+```
+ls ../../
+```
+
+11.
+```
+touch list_of_best_cat_pictures.html
+```
+12.
+```
+
+
+
+
+
