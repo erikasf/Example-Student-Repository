@@ -178,6 +178,8 @@ find  *.md *.html *.txt
  
  ##Advanced
  
+ 1.
+``
  
   
 
@@ -186,5 +188,29 @@ find  *.md *.html *.txt
 
 
 
+##Answers to questions
+1. What is the cd?
+    change directory. Changes the current working directory to the directory $DIR. In effect, moves you around the computer. For example to move into a directory or folder thats found in Documents you would use 
+    cd Documents/practice or to go back home cd ~
+2. What is the exit command
+    When you are done wiht a terminal window or tab and ready to exit you use the exit command  which is ```$ exit```
+    but when you want to quit the man pages you don't use exit you use :q for quit. 
+    Bash's exit status is the exit status of the last command executed in the script.
+3.pwd?
+    pwd is an acronym for print working directory. the pwd is one of the most frequently used commands.
+    it can be used to find the full path to the current directory which is just the directory that you are currently operating in . 
+    Syntax is 
+    ```
+    pwd
+    pwd [options]
+    var = $(pwd)
+    echo "The current working director $var"
+    ```
+    to print current dir. 
+    ```
+    $ pwd
+    /user/underpaidnurse (is mine)
+    ```
+    
 
-
+  
