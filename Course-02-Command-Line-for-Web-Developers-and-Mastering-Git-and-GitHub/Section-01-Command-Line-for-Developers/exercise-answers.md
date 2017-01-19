@@ -117,6 +117,21 @@ ping -c 2 127.0.0.1
  remove(./yesterdays_todo_list.md)
 
 
+##Intermediate
+du -h -s
+ touch myname.md   
+    echo "Erika Harvey" >> myname.md
+    touch myfavoritefoods.md
+    echo "tiriamisu,beer,steak" >> myfavoritefoods.md
+    touch dreamproject.md
+    echo "patient advocate portal" >> dreamproject.md
+    touch music.md
+    echo "Depeche Mode" >> music.md
+    touch colors.md
+    echo "indigo" >> colors.md
+
+
+
 
 
 
