@@ -100,7 +100,21 @@ cat tylers_favorite_songs.txt; sarahs_favorite_songs.txt
 ```
 17
 ```
-  
+  man echo > ./echo_options.txt
+
+  ```
+  18
+  ```
+ping -c 2 127.0.0.1
+  ```
+  19
+  ```
+  ls *.md
+
+  ```
+  20
+  ```
+ remove(./yesterdays_todo_list.md)
 
 
 

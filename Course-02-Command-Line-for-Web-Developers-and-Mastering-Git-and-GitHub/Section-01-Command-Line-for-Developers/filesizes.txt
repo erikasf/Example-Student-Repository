@@ -1,0 +1,9 @@
+total 48
+-rw-r--r--  1 erikaharvey  staff     0B Jan 16 10:05 filesyzes.txt
+-rw-r--r--  1 erikaharvey  staff     0B Jan 16 10:05 filesizes.txt
+-rw-r--r--  1 erikaharvey  staff     7B Jan 16 09:50 colors.md
+-rw-r--r--  1 erikaharvey  staff    13B Jan 16 09:50 myname.md
+-rw-r--r--  1 erikaharvey  staff    13B Jan 16 09:50 music.md
+-rw-r--r--  1 erikaharvey  staff    21B Jan 16 09:50 myfavoritefoods.md
+-rw-r--r--  1 erikaharvey  staff   166B Jan 16 09:52 dreamproject.md
+-rw-r--r--@ 1 erikaharvey  staff   1.7K Jan 16 09:36 exercise-answers.md
