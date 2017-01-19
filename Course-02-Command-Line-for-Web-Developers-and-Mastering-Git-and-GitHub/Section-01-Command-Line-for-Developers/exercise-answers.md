@@ -118,7 +118,9 @@ ping -c 2 127.0.0.1
 
 
 ##Intermediate
-du -h -s
+
+ 1
+ ```
  touch myname.md   
     echo "Erika Harvey" >> myname.md
     touch myfavoritefoods.md
@@ -129,6 +131,55 @@ du -h -s
     echo "Depeche Mode" >> music.md
     touch colors.md
     echo "indigo" >> colors.md
+    ```
+  2.
+  ```
+  ls -h | sort files > filesizes.txt
+  ```
+  3.
+  ```
+    mkdir backups
+    mv backup1.tar.ga ./backups
+  ```
+  4.
+  ```
+ echo -e allnurse'\n' spotify '\n' > sites.txt
+ ```
+ 5.
+ ```
+ curl -L http://study.moderndeveloper.com > study.html
+ ```
+ 6.
+ ```
+ mkdir backups
+ cd backups
+ mv backup1.tar.gz ./backups
+ mv backup1.tar.gz "$(date '=%ym%d%H%M').tar.gz
+ ```
+ 7.
+ ```
+ wc -w dreamproject.md
+ ```
+ 8.
+ ```
+ grep "\.js" study.html > javascripts.html
+ ```
+ 9.
+ ```
+  cat *.txt | wc -w
+      74
+➜  
+ ```
+ 10.
+ ```
+find  *.md *.html *.txt
+ find  *.md *.html *.txt | tar -cvzf backups2.tar.gz 
+ find . -name "*.md" "*.html" "*.txt" -delete
+ 
+ ##Advanced
+ 
+ 
+  
 
 
 
