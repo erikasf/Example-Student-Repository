@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+echo "Welcome, $(whoami)"
+echo $'SUMMARY: \N===' >> summary.md
+cat *.txt >> summary.md
+echo $'\n---\n' >> summary.md
+echo "word count: 'cat summary.md | wc -w'" >> summary.md

@@ -1,0 +1,4 @@
+#!/bin/bash
+./mdextract /Users/underpaidnurse/Documents/Example-Student-Repository/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-01-Command-Line-for-Developers/backups2 ./backups/17m161024.tar.gz
+echo "expanding the first tar we did into the backups2 folder"
+echo "done"
