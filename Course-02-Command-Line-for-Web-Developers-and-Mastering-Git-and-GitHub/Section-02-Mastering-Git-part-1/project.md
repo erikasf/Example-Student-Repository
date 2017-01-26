@@ -1,26 +1,4 @@
-### Name of a command
-A one- or two sentence describing the command
 
-Simple Example:
-```
-simple code
-```
-Comp;lex 
-```
-a more complex code
-```
----
-### Name of a command
-A one- or two sentence describing the command
-
-Simple Example:
-```
-simple code
-```
-Comp;lex 
-```
-a more complex code
-```
 ---
 ### Git Config
 ```

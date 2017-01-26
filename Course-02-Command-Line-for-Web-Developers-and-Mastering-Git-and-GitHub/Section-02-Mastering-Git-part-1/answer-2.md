@@ -1,16 +1,14 @@
 
-#### Explain the usage and purpose of the  `--ammend` flag for the `git commit` command.
+#### Explain the usage of the `git mv` command. Include an explanation of the various flags that can be used with `git mv`.
 
-# Title of Article here
-
-*Introductory paragraph*
-
-*Your response*
-
+```
+Just as in the command line, we have a simple way to rename things with in git 
+git mv ./workspace/option1 ./workspace/option2
+```
 
 
 
 
-Arnold Hart
-1/22/2016
+Erika Harvey
+
 Career Path 1: Junior JavaScript Developer
